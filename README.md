@@ -8,9 +8,11 @@
 
 <p align="center">
 
-<a href="www.linkedin.com/in/ceren-akca">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/ceren-akca/">
+<img src="https://img.shields.io/badge/LinkedIn-Ceren%20Akça-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+</p>
 
 <a href="https://github.com/">
 <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
