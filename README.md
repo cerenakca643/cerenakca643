@@ -28,7 +28,6 @@ Teknoloji ve mühendisliği birleştirerek **veri odaklı sistemler geliştirmek
 
 Özellikle şu alanlarda kendimi geliştirmeye çalışıyorum:
 
-* 💻 **Yazılım geliştirme**
 * 🗄️ **Veritabanı sistemleri**
 * 📊 **Veri analizi**
 * ⚙️ **Süreç optimizasyonu**
